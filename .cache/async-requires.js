@@ -2,7 +2,6 @@
 const preferDefault = m => m && m.default || m
 
 exports.components = {
-  "component---cache-dev-404-page-js": require("gatsby-module-loader?name=component---cache-dev-404-page-js!C:\\Users\\Active\\Downloads\\ElatedVigilantDesign\\.cache\\dev-404-page.js"),
   "component---src-pages-404-js": require("gatsby-module-loader?name=component---src-pages-404-js!C:\\Users\\Active\\Downloads\\ElatedVigilantDesign\\src\\pages\\404.js"),
   "component---src-pages-index-js": require("gatsby-module-loader?name=component---src-pages-index-js!C:\\Users\\Active\\Downloads\\ElatedVigilantDesign\\src\\pages\\index.js"),
   "component---src-pages-page-2-js": require("gatsby-module-loader?name=component---src-pages-page-2-js!C:\\Users\\Active\\Downloads\\ElatedVigilantDesign\\src\\pages\\page-2.js")
@@ -10,7 +9,6 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!C:\\Users\\Active\\Downloads\\ElatedVigilantDesign\\.cache\\json\\layout-index.json"),
-  "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!C:\\Users\\Active\\Downloads\\ElatedVigilantDesign\\.cache\\json\\dev-404-page.json"),
   "404.json": require("gatsby-module-loader?name=path---404!C:\\Users\\Active\\Downloads\\ElatedVigilantDesign\\.cache\\json\\404.json"),
   "index.json": require("gatsby-module-loader?name=path---index!C:\\Users\\Active\\Downloads\\ElatedVigilantDesign\\.cache\\json\\index.json"),
   "page-2.json": require("gatsby-module-loader?name=path---page-2!C:\\Users\\Active\\Downloads\\ElatedVigilantDesign\\.cache\\json\\page-2.json"),

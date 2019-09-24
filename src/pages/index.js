@@ -118,10 +118,6 @@ jQuery(document).ready(function () {
   render(){
     return(
  <div>
-   {/* <Helmet>
-   <link rel='stylesheet' id='wp-block-library-css' href='./wp-includes/css/dist/block-library/style.min2513.css?ver=5.2.3'
-            type='text/css' media='all' />
-   </Helmet> */}
    <div id="ajax-loading-screen" data-disable-mobile="0" data-disable-fade-on-click="0" data-effect="horizontal_swipe" data-method="standard"><div class="reveal-1"></div><div class="reveal-2"></div></div>
       <div id="header-outer" data-has-menu="true" data-has-buttons="no" data-using-pr-menu="false" data-mobile-fixed="1" data-ptnm="false" data-lhe="animated_underline" data-user-set-bg="#ffffff" data-format="default" data-permanent-transparent="1" data-megamenu-rt="1" data-remove-fixed="0" data-header-resize="1" data-cart="false" data-transparency-option="1" data-box-shadow="none" data-shrink-num="30" data-using-secondary="0" data-using-logo="1" data-logo-height="79" data-m-logo-height="40" data-padding="30" data-full-width="true" data-condense="false" data-transparent-header="true" data-transparent-shadow-helper="false" data-remove-border="true" class="transparent">
         {/* header */}
